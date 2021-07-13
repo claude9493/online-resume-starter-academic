@@ -1,21 +1,16 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+<!--StartFragment-->
+
+I'm currently a postgraduate student in the [department of statistics and actuarial science](https://saasweb.hku.hk/) at [the University of Hong Kong.](https://hku.hk/) I received my bachelor's degree in statistics at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in 2020 Spring.
+
+My research interests include machine learning, computational statistics and data visualization.  Here is my [CV](http://claude9493.com/Files/CV_Nov15.pdf).
+
+<!--EndFragment-->
