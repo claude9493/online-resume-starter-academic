@@ -24,13 +24,13 @@ education:
   courses:
     - course: PhD in Data Science and Analytics
       institution: Hong Kong University of Science and Technology (Guangzhou)
-      year: 2
+      year: ""
     - course: MSc in Statistics
       institution: The University of Hong Kong
-      year: 2021
+      year: ""
     - course: BSc in Statistics
       institution: Southern University of Science and Technology
-      year: 2020
+      year: ""
 email: yzhang98@connect.hku.hk
 superuser: true
 highlight_name: false
