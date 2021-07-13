@@ -1,7 +1,7 @@
 ---
 title: ZHANG Yun 張昀
 role: ""
-avatar_filename: yun.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
