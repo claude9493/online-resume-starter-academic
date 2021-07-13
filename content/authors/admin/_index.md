@@ -27,10 +27,10 @@ education:
       year: ""
     - course: MSc in Statistics
       institution: The University of Hong Kong
-      year: ""
+      year: 2021
     - course: BSc in Statistics
       institution: Southern University of Science and Technology
-      year: ""
+      year: 2020
 email: yzhang98@connect.hku.hk
 superuser: true
 highlight_name: false
